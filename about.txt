@@ -1,0 +1,3 @@
+Name:   Ch.Venkata Sai Divya
+Course: BSC-Computer science
+I learned i git hub how to create repositories,how to update repositories,how to delete repositories and diagrams
